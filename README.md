@@ -1,13 +1,16 @@
-モバイルプログラミング最終課題です
-制作したのは心理学実験に利用するアプリケーションです
+# final4
 
-flutterのフォルダで載せようとしましたが、ファイル数が多く載せられませんでした
-そのためデフォルトのNew flutter projectから変更を加えたlibファイルのみ載せることにしました
-ただし、libファイル内でスクリーンを移動する際のパスが、final4という元データのファイル名で記載されているため、注意してください
+A new Flutter project.
 
-実行の仕方
-new flutter projectで、 finai4 という名前でプロジェクトを開始する
-libファイルをこのリポジトリからコピーペーストする(なお、ペーストする際にデフォルトのmain.dartの上に上書きすることになる)
-実行する
+## Getting Started
 
-よろしくお願いいたします。
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
